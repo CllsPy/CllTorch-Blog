@@ -1,21 +1,24 @@
 ---
-title: "O que é IA?"
+title: "IA Generativa não é o que você imagina"
 draft: false
 ShowToc: true
 ---
 
-IA, ou Inteligência Artificial, é um campo da ciência da computação que se concentra no desenvolvimento de sistemas e algoritmos que podem realizar tarefas que normalmente exigiriam inteligência humana. Esses sistemas são projetados para perceber o ambiente ao seu redor, aprender com essas percepções, tomar decisões e agir de maneira autônoma para alcançar objetivos específicos.
+![image](https://github.com/CllsPy/CllTorch-Blog/assets/96326019/b721cb9c-46e0-4085-b794-7a43b76bd504)
 
-Existem diferentes abordagens e técnicas dentro da IA, incluindo:
+O sujeito digita “ChatGPT” no Google, entra na plataforma da OpenAI, faz uma pergunta e torce para obter a resposta correta. Se isso não te assusta, precisamos conversar.
 
-1. **Aprendizado de Máquina (Machine Learning)**: É uma subárea da IA que se concentra no desenvolvimento de algoritmos e modelos que permitem aos computadores aprender a partir de dados e melhorar seu desempenho ao longo do tempo sem serem explicitamente programados.
+Em junho de 2017, foi publicado um artigo com um título enigmático, “Attention Is All You Need”. O paper tratava de uma nova arquitetura de rede neural focada na tradução de palavras. O exemplo no artigo é a tradução do inglês para o alemão. A arquitetura da rede neural foi chamada de transformers, em oposição ao modelo vigente, chamado de sequencial, onde cada palavra era fielmente traduzida na ordem em que apareciam. A ideia era que na tarefa de tradução, ao invés de focar em cada trecho da frase, elementos “irrelevantes”, como, digamos, artigos, seriam deixados de lado, e apenas as palavras importantes seriam consideradas, isso foi chamado de “atenção”.
 
-2. **Redes Neurais Artificiais**: Inspiradas no funcionamento do cérebro humano, as redes neurais artificiais são modelos computacionais compostos por neurônios artificiais interconectados que podem aprender padrões complexos nos dados.
+Na prática, nossa rede neural recebe mais dados e, por consequência, mais contexto para que possa “adivinhar” qual é a próxima palavra e a sua relevância com base no que viu antes. Além da tradução de idiomas, podemos usar esse mecanismo de atenção para produzir conteúdo semelhante, como, por exemplo, uma explicação sobre cálculo diferencial e integral no estilo de escrita usado por Shakespeare.
 
-3. **Processamento de Linguagem Natural (NLP)**: É uma área da IA que se concentra na interação entre computadores e humanos por meio da linguagem natural. Isso inclui tarefas como reconhecimento de fala, compreensão de texto, tradução automática, entre outros.
+Quando nosso pedido não é atendido corretamente, chamamos isso de alucinação. É quando, por dados insuficientes ou interpretação incorreta do modelo, erra a resposta para nossa pergunta. Nesse caso por que esperar que a sua resposta a alguma pergunta específica seja respondida sem que antes haja um contexto para um problema? Você realmente confia decisões importantes na medicina e engenharia a um modelo que pode alucinar sobre sua resposta, dado que está supondo qual seja a próxima palavra relevante? As IAs não podem substituir humanos (pelo menos ainda), mas podem potencializar nossas decisões e otimizar nosso tempo quando fornecemos contextos e compreendemos o modus operandi delas.
 
-4. **Visão Computacional**: É o campo que se concentra em capacitar os computadores a interpretar e compreender o conteúdo visual, como imagens e vídeos. Isso inclui tarefas como reconhecimento de objetos, detecção de rostos, segmentação de imagem, entre outros.
+# Referências
+Transformers, explained: Understand the model behind GPT, BERT, and T5
 
-5. **Raciocínio e Planejamento**: Envolve o desenvolvimento de algoritmos que permitem aos sistemas de IA raciocinar sobre problemas complexos, tomar decisões e planejar ações com base em metas e restrições específicas.
+Attention Is All You Need — Paper
 
-A IA tem uma ampla gama de aplicações em diversos setores, como saúde, finanças, manufatura, transporte, entretenimento, entre outros. Ela está rapidamente se tornando uma parte integral de muitos aspectos da vida moderna, impulsionando inovações e transformações em várias indústrias.
+Let’s build GPT: from scratch — Andrej Karpathy
+
+Let’s embark on the journey of constructing a GPT — Kaggle
