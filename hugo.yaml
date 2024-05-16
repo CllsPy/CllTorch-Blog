@@ -12,10 +12,11 @@ params:
   socialIcons:
     - name: Github 
       url: https://github.com/CllsPy
+
+  imageUrl: "static/images/Avatar-Maker.png"
+  imageWidth: 120
+  imageHeight: 120
       
-  label:
-    icon: "static/images/Avatar-Maker.png"
-    iconHeight: 35
 
 menu:
   main:
