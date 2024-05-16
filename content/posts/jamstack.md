@@ -1,3 +1,11 @@
+---
+title: "IA Generativa não é o que você imagina"
+draft: false
+ShowToc: true
+date: 15, Maio de 2024
+---
+
+
 # Jamstack: Web Stack para Criadores de Conteúdo
 
 Keys: Jamstack, Web Stack, Hugo, Site
