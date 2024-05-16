@@ -11,7 +11,7 @@ params:
       Você pode me chamar de CLL, bem-vindo ao meu blog.    
   socialIcons:
     - name: Github 
-      url: github.com/Cllspy
+      url: https://github.com/CllsPy
 
 menu:
   main:
