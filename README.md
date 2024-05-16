@@ -1,2 +1,1 @@
-# CllTorch-Blog
-My personal blog :)
+# chanin.tech
