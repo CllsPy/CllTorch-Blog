@@ -9,6 +9,7 @@ params:
     Title: "Olá!"
     Content: >-
       Você pode me chamar de CLL
+      
       Self-taught | Machine Learning Competitor | Technician in Computer Science
   socialIcons:
     - name: Github 
