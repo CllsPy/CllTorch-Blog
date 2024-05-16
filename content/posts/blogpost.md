@@ -4,7 +4,7 @@ draft: false
 ShowToc: true
 ---
 
-![image](https://github.com/CllsPy/CllTorch-Blog/assets/96326019/b721cb9c-46e0-4085-b794-7a43b76bd504)
+![image](https://static-blog.onlyoffice.com/wp-content/uploads/2023/06/28125923/What-is-generative-AI_-an-easy-guide.png)
 
 O sujeito digita “ChatGPT” no Google, entra na plataforma da OpenAI, faz uma pergunta e torce para obter a resposta correta. Se isso não te assusta, precisamos conversar.
 
