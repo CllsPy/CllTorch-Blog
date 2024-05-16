@@ -10,8 +10,8 @@ params:
     Content: >-
       Você pode me chamar de CLL, bem-vindo ao meu blog.    
   socialIcons:
-    - name: email
-      url: 'casl2@aluno.ifal.edu.br'
+    - name: Github 
+      url: github.com/Cllspy
 
 menu:
   main:
