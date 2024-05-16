@@ -9,7 +9,8 @@ params:
     Title: "Olá, meu nome é Carlos!"
     Content: >-    
       Self-taught | Machine Learning Competitor | Technician in Computer Science
-      ImagePath: /static/assets/Avatar-Maker.png
+  ImagePath: 
+    path: /static/assets/Avatar-Maker.png
   socialIcons:
     - name: Github 
       url: https://github.com/CllsPy
