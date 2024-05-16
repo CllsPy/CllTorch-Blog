@@ -14,7 +14,6 @@ params:
       url: https://github.com/CllsPy
       
   label:
-    text: "Chanin Nantasenamat"
     icon: "static/images/Avatar-Maker.png"
     iconHeight: 35
 
