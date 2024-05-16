@@ -6,11 +6,10 @@ theme: PaperMod
 params:
   defaultTheme: dark
   homeInfoParams:
-    Title: "Olá!"
-    Content: >-
-      Você pode me chamar de CLL
-      
+    Title: "Olá, meu nome é Carlos!"
+    Content: >-    
       Self-taught | Machine Learning Competitor | Technician in Computer Science
+      ImagePath: "/static/assets/Avatar-Maker.png"
   socialIcons:
     - name: Github 
       url: https://github.com/CllsPy
