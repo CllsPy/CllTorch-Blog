@@ -13,12 +13,6 @@ params:
     - name: Github 
       url: https://github.com/CllsPy
 
-profileMode:
-  imageUrl: "static/images/Avatar-Maker.png"
-  imageWidth: 120
-  imageHeight: 120
-      
-
 menu:
   main:
     - identifier: home
