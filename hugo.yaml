@@ -1,0 +1,25 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: CLLTorch
+theme: PaperMod
+
+params:
+  defaultTheme: dark
+  homeInfoParams:
+    Title: "Olá!"
+    Content: >-
+      Você pode me chamar de CLL, bem-vindo ao meu blog.    
+  socialIcons:
+    - name: email
+      url: 'casl2@aluno.ifal.edu.br'
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 10
+    - identifier: posts
+      name: Blog
+      url: /posts/
+      weight: 20
