@@ -8,7 +8,12 @@ params:
   homeInfoParams:
     Title: "Olá!"
     Content: >-
-      Você pode me chamar de CLL, bem-vindo ao meu blog.    
+    
+      Você pode me chamar de CLL,
+      * Self-taught | 
+      * Machine Learning Competitor | 
+      * Technician in Computer Science
+      
   socialIcons:
     - name: Github 
       url: https://github.com/CllsPy
