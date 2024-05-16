@@ -1,16 +1,11 @@
 ---
-title: "IA Generativa não é o que você imagina"
+title: "Jamstack: Web Stack para Criadores de Conteúdo"
 draft: false
 ShowToc: true
 date: 16 May 2024
 ---
 
-
-# Jamstack: Web Stack para Criadores de Conteúdo
-
 Keys: Jamstack, Web Stack, Hugo, Site
-
-
 
 Criar um site e mantê-lo em funcionamento é uma tarefa que requer a mobilização de toda uma equipe: um engenheiro devops, um administrador de 
 sistemas e arquitetos de banco de dados, sem contar na necessidade de manutenção, o que consome tempo - tempo que 
