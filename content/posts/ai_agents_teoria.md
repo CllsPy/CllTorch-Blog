@@ -1,5 +1,5 @@
 ---
-title: "Jamstack: AI Agents e a era das IA's autônomas"
+title: "AI Agents e a era das IA's autônomas"
 draft: false
 ShowToc: true
 date: 17 May 2024
