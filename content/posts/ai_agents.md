@@ -1,8 +1,14 @@
+---
+title: "Vamos construir o futuro: AI Agent com LangChain"
+draft: false
+ShowToc: true
+date: 17 May 2024
+---
+
 ![](https://hermes.dio.me/articles/cover/010509a3-8ded-48f2-b237-9942f8edcb00.png)
 <br>
 <br>
 
-# Vamos construir o futuro: AI Agent com LangChain
 Keys: #LangChain, #LLM, #GenerativeAI, #Google Colabs, #HuggingFace
 <br>
 
