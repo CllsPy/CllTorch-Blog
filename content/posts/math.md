@@ -5,6 +5,10 @@ ShowToc: true
 date: 24 Jun 2024
 ---
 
+# Semana 1 de 8
+
+Esse post é o primeiro de uma série focada em documentar a minha jornada rumo ao entendimento sobre como AI funcionam, vamos iniciar com a Matemática, geralmente é necessário entender: Álgebra, Cálculo, Estatística e Probabilidade. Abaixo seguem todos os parâmetros do projeto.
+
 ## Performance Goals
 
 * [Curto Prazo] Implementar a Matemática aprendida: Álgebra, Cálculo, Estatística e Probabildiade em Python.
