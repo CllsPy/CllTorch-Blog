@@ -2,7 +2,7 @@
 title: "Math For Deep Learning"
 draft: false
 ShowToc: true
-date: 16 May 2024
+date: 24 Jun 2024
 ---
 
 ## Performance Goals
