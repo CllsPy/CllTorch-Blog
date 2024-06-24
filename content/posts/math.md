@@ -1,9 +1,3 @@
----
-title: Projeto de aprendizado: Math For Deep Learning
-draft: false
-ShowToc: true
-date: 17 May 2024
----
 
 ## Performance Goals
 
