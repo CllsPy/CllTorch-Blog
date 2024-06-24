@@ -5,22 +5,29 @@ ShowToc: true
 date: 24 Jun 2024
 ---
 
+---
+title: "Math For Deep Learning"
+draft: false
+ShowToc: true
+date: 24 Jun 2024
+---
+
 # Semana 1 de 8
 
-Esse post é o primeiro de uma série focada em documentar a minha jornada rumo ao entendimento sobre como AI funcionam, vamos iniciar com a Matemática, geralmente é necessário entender: Álgebra, Cálculo, Estatística e Probabilidade. Abaixo seguem todos os parâmetros do projeto.
+Este post é o primeiro de uma série focada em documentar minha jornada rumo ao entendimento de como a IA funciona. Vamos iniciar com a Matemática, que geralmente requer entendimento de: Álgebra, Cálculo, Estatística e Probabilidade. Abaixo seguem todos os parâmetros do projeto.
 
 ## Performance Goals
 
-* [Curto Prazo] Implementar a Matemática aprendida: Álgebra, Cálculo, Estatística e Probabildiade em Python.
-* Escrever sobre os temas simplificando os conceitos ao público.
-* [Longo Prazo] Ser capaz de implementar papers _from scratch_
+* [Curto Prazo] Implementar a Matemática aprendida: Álgebra, Cálculo, Estatística e Probabilidade em Python.
+* Escrever sobre os temas, simplificando os conceitos para o público.
+* [Longo Prazo] Ser capaz de implementar papers _from scratch_.
   
 ## Project Goals
-**Outcome**: Eu quero ser capaz de compreender como Deep Learning funciona por trás das cortinas, sendo capaz de implementar arquiteturas de NN's como `transformers`. Quero ser capaz de compreender explicações mais técnica em relação a conceitos como Gradient Descent ou Backpropag, finalmente também quero ser capaz de escrever sobre esses temas para o público iniciado.
+**Outcome**: Eu quero ser capaz de compreender como Deep Learning funciona por trás das cortinas, sendo capaz de implementar arquiteturas de RN's como `transformers`. Quero ser capaz de compreender explicações mais técnicas em relação a conceitos como Gradient Descent ou Backpropagation. Finalmente, também quero ser capaz de escrever sobre esses temas para o público iniciado.
 
-**Curriculum**: Eu quero implementar redes neurais sem o uso de frameworks; codar um raytracer; algorítimos da estatística sem usar nenhuma biblioteca e ao final acompanhar o código de um artigo e ser capz de reproduzir os resultado.
+**Curriculum**: Eu quero implementar redes neurais sem o uso de frameworks; codificar um raytracer; algoritmos da estatística sem usar nenhuma biblioteca e, ao final, acompanhar o código de um artigo e ser capaz de reproduzir os resultados.
 
-**Timeframe**: 24 de Junho de 2024 até 24 de Agosto de 2025
+**Timeframe**: 24 de junho de 2024 até 24 de agosto de 2025.
 
 ## Project Milestones
 * Aprender Cálculo
@@ -29,21 +36,20 @@ Esse post é o primeiro de uma série focada em documentar a minha jornada rumo 
   - [Cálculo Multivariável - Khan Academy](https://pt.khanacademy.org/math/multivariable-calculus)
   - [A essência do cálculo - 3B1B](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 
-    
- * Aprender Álgebra
-    - [Álgebra - KhanAcademy](https://pt.khanacademy.org/math/linear-algebra)
-    - [A essência da álgebra - 3B1B](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-    - [Linear Algebra Concepts Every Data Scientist Should Know](https://medium.com/bitgrit-data-science-publication/linear-algebra-concepts-every-data-scientist-should-know-18b00bd453dd)
+* Aprender Álgebra
+  - [Álgebra - KhanAcademy](https://pt.khanacademy.org/math/linear-algebra)
+  - [A essência da álgebra - 3B1B](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+  - [Linear Algebra Concepts Every Data Scientist Should Know](https://medium.com/bitgrit-data-science-publication/linear-algebra-concepts-every-data-scientist-should-know-18b00bd453dd)
 
 * Aprender Estatística e Probabilidade
-    - [Probabilidade e Estatística - KhanAcademy](https://pt.khanacademy.org/math/statistics-probability)
-    - [Estatística - StarQuest](https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
+  - [Probabilidade e Estatística - KhanAcademy](https://pt.khanacademy.org/math/statistics-probability)
+  - [Estatística - StarQuest](https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
 
 ## Next Steps 
 * Redes Neurais
-    - [NN from scratch](https://www.youtube.com/watch?v=Wo5dMEP_BbI&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)
-    - [Transformers from stratch](https://www.youtube.com/watch?v=ISNdQcPhsts)
-    - [Building a raytracer from scratch](https://www.youtube.com/watch?v=KaCe63v4D_Q&list=PL8ENypDVcs3H-TxOXOzwDyCm5f2fGXlIS)
+  - [NN from scratch](https://www.youtube.com/watch?v=Wo5dMEP_BbI&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)
+  - [Transformers from scratch](https://www.youtube.com/watch?v=ISNdQcPhsts)
+  - [Building a raytracer from scratch](https://www.youtube.com/watch?v=KaCe63v4D_Q&list=PL8ENypDVcs3H-TxOXOzwDyCm5f2fGXlIS)
 
 ## References
 - [Math For Understand Deep Learning](https://www.amazon.com/Math-Deep-Learning-Understand-Networks/dp/1718501900)
