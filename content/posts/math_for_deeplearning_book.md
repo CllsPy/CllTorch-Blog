@@ -1,4 +1,13 @@
-﻿## Probability
+---
+title: "Math for Deep Learning: What You Need to Know to Understand Neural Networks"
+draft: false
+ShowToc: true
+date: 24 Jun 2024
+---
+
+ ![image](https://github.com/CllsPy/CllTorch-Blog/assets/96326019/d68faab9-c376-41dd-b23b-39122ce8bf73)
+
+ ## Probability
 
 I. 
 Probabilidade desempenha um papel fundamental em Deep Learning e porque intuitivamente não entendemos bem, precisamos estudar.
