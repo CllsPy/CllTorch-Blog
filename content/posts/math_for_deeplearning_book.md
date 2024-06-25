@@ -5,6 +5,9 @@ ShowToc: true
 date: 24 Jun 2024
 ---
 
+# Book
+ ![image](https://github.com/CllsPy/CllTorch-Blog/assets/96326019/d68faab9-c376-41dd-b23b-39122ce8bf73)
+
  ## Probability
 
 I. 
@@ -28,4 +31,3 @@ VIII. Uma evidência de que nós humanos somos péssimos em relação a probabil
 
 IX.
 
- ![image](https://github.com/CllsPy/CllTorch-Blog/assets/96326019/d68faab9-c376-41dd-b23b-39122ce8bf73)
