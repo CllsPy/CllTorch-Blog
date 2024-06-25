@@ -5,8 +5,6 @@ ShowToc: true
 date: 24 Jun 2024
 ---
 
- ![image](https://github.com/CllsPy/CllTorch-Blog/assets/96326019/d68faab9-c376-41dd-b23b-39122ce8bf73)
-
  ## Probability
 
 I. 
@@ -29,3 +27,5 @@ P(X = heads) = P(X = tails) = 0.5
 VIII. Uma evidência de que nós humanos somos péssimos em relação a probabilidade é chamado de “the monty hall dilemma”: você tem chance de abrir uma entre três portas, em uma dela haverá um carro e na outra apenas lixo, após abrir uma das portas e ver que tem lixo surge a pergunta, você troca a sua porta ou você mantém ela? O correto é mudar. Nesse caso a única forma de perder é se a minha porta tem o carro. Se ela não tiver, mudando eu ganho. Porque eu vou ter que abrir a outra porta com lixo, restam apenas duas, a do carro e a minha. Nesse caso, trocando eu ganho.
 
 IX.
+
+ ![image](https://github.com/CllsPy/CllTorch-Blog/assets/96326019/d68faab9-c376-41dd-b23b-39122ce8bf73)
