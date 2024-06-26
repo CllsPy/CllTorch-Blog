@@ -2,7 +2,11 @@
 title: "Math For Deep Learning"
 draft: false
 ShowToc: true
-date: 24 Jun 2024
+date: "24/06/2024"
+tags:
+    - math
+    - python
+    - AI
 ---
 
 Este post é o primeiro de uma série focada em documentar minha jornada rumo ao entendimento de como a IA funciona. Vamos iniciar com a Matemática, que geralmente requer entendimento de: Álgebra, Cálculo, Estatística e Probabilidade. Abaixo seguem todos os parâmetros do projeto.
