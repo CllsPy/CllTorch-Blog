@@ -2,7 +2,7 @@
 title: "Math For Deep Learning"
 draft: false
 ShowToc: true
-date: 24/06/2024
+date: 24 Jun, 2024
 tags:
     - math
     - python
