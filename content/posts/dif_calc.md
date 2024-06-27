@@ -9,12 +9,6 @@ tags:
     - AI
 ---
       
-**Índice**:
-1. O que é uma função?
-2. Encontrando a variação de uma função simples
-3. Entendendo a complexidade de funções no mundo real
-5. Encontrando a variação de funções complexas
-
 O objetivo deste artigo é demonstrar como compreender o Cálculo Diferencial de uma forma intuitiva **com a menor quantidade de números e matemática possível.**
 
 ## O que é uma função?
