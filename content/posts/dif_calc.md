@@ -9,8 +9,6 @@ tags:
     - AI
 ---
       
-Claro! Aqui está o texto ajustado para não usar LaTeX nas fórmulas:
-
 **Índice**:
 1. O que é uma função?
 2. Encontrando a variação de uma função simples
