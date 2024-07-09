@@ -29,6 +29,10 @@ Soft Engineering
 - 02:30  Make launch decisions cautiously in step eleven and implement a policy layer.
 - 02:44  Continuously monitor and maintain your model to address technical debt in step twelve.
 
+### Day 02: 09 July 2024
+
+- I learned what is Ray Tracing
+- How to make a vector in Golang
 
 
 
