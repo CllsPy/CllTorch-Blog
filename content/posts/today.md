@@ -34,6 +34,12 @@ Soft Engineering
 - I learned what is Ray Tracing
 - How to make a vector in Golang
 
+### Day 03: 10 July 2014
+
+Golang
+- How create a `function`
+- How to call a  `function`
+- How use `arrays` and operate  them
 
 
 
