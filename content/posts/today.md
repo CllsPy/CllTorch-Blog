@@ -15,11 +15,11 @@ ShowToc: true
 - How to make a Unit Test using Python
 - `python -m unittest test_module.py`
 
-## Golang
-- How create a `function`
-- How to call a  `function`
-- How use `arrays` and operate  them
-
+<details markdown='1'><summary> ## Golang </summary> 
+      - How create a `function`
+      - How to call a  `function`
+      - How use `arrays` and operate  them
+</details>
 
 
       
