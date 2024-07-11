@@ -20,9 +20,7 @@ ShowToc: true
 - How use `arrays` and operate  them
 
 ## Python
-- Unit Test
-  
-            - Call Unit Test: `python -m unittest test_module.py`:
+- Call Unit Test: `python -m unittest test_module.py`:
 
 
 
