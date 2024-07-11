@@ -13,14 +13,15 @@ ShowToc: true
 - I learned that a software engineer must possess two principles: self-learning and problem-solving.
 - A good software engineer is capable of delivering a secure and functional product, and this can be achieved through Unit Test.
 - How to make a Unit Test using Python
-- `python -m unittest test_module.py`
 
 ## Golang
-<details markdown='1'><summary> TIL </summary> 
-      <li>How create a `function`</li>
-      <li>How to call a  `function`</li>
-      <li>How use `arrays` and operate  them</li>
-</details>
+- How create a `function`</li>
+- How to call a  `function`</li>
+- How use `arrays` and operate  them
+
+## Python
+- Unit Test
+      -  `python -m unittest test_module.py`: call test unit
 
 
       
