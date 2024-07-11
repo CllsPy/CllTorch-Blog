@@ -21,7 +21,7 @@ ShowToc: true
 
 ## Python
 - Unit Test
-      - `python -m unittest test_module.py`: call test unit
+      - Call Unit Test: `python -m unittest test_module.py`:
 
 
 
