@@ -15,6 +15,7 @@ ShowToc: true
 - I learned that a software engineer must possess two principles: self-learning and problem-solving.
 - A good software engineer is capable of delivering a secure and functional product, and this can be achieved through Unit Test.
 - How to make a Unit Test using Python
+- I learned what is TDD (Test-Drive Development): A method to write software where first you write and after write code.
 
 ## Golang
 
