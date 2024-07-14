@@ -4,7 +4,7 @@ title: CLLTorch
 theme: PaperMod
 
 params:
-  defaultTheme: dark
+  defaultTheme: white
   homeInfoParams:
     Title: "Olá, meu nome é Carlos!"
     Content: >-    
