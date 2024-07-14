@@ -8,7 +8,7 @@ params:
   homeInfoParams:
     Title: "Olá, meu nome é Carlos!"
     Content: >-    
-      Self-taught | Machine Learning Competitor | Technician in Computer Science
+      math, ai safety and writing
   socialIcons:
     - name: Github 
       url: https://github.com/CllsPy
