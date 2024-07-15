@@ -9,6 +9,7 @@ ShowToc: true
 ## Introduction
 
 AI pode ser aplicada em: automação de trabalhos repetitivos; reconhecimento de fala e imagem; medicina e suporte a pesquisas de base.
+
 AI consiste em solucionar problemas de modo que as máquinas aprendam com experiência (data) e entenda o mundo em termos de uma hierarquia de conceitos.
 
 - experiência → significa que não será necessário ao humano esclarecer o que precisa ser feito.
