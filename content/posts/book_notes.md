@@ -56,8 +56,3 @@ In daily life, a person needs a lot of knowledge, which is often informal. The b
 - A classic example of Deep Learning is the **MLP (Multilayer Perceptron)**.
 
 If we build a [graph](https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)) showing how these concepts connect, it would be deep with many layers; hence, we call it **Deep Learning**.
-
----
-
-I hope this makes the content more engaging and easier to read! Let me know if there's anything else you'd like to add or change.
-
