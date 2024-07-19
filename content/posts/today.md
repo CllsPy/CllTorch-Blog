@@ -4,31 +4,41 @@ draft: false
 ShowToc: true
 ---
 
-# Today I Learned (TIL)
+## 🌟 **Today I Learned (TIL)**
 
-## Generative AI
+---
 
-- LLMs are trained on a large amount of data sourced from across the internet, which means there is a high possibility of containing bias or inappropriate content.
+### 🤖 **Generative AI**
 
-## Soft Engineering
+- **Large Language Models (LLMs)** are trained on vast amounts of data sourced from the internet, which means there is a high possibility of containing bias or inappropriate content.
 
-- I learned that a software engineer must possess two principles: self-learning and problem-solving.
-- A good software engineer is capable of delivering a secure and functional product, and this can be achieved through Unit Test.
-- How to make a Unit Test using Python
-- I learned what is TDD (Test-Drive Development): A method to write software where first you write and after write code.
-- DRY
-  - DRY means that your code should have less repetition as possible.
-  - Less repetition means less bugs
+---
 
-## Golang
+### 💻 **Software Engineering**
 
-- How create a `function`
-- How to call a  `function`
-- How use `arrays` and operate  them
+- I learned that a software engineer must possess two principles: **self-learning** and **problem-solving**.
+- A good software engineer is capable of delivering a **secure** and **functional** product, achievable through **Unit Testing**.
+- How to make a Unit Test using Python:
+  - 🐍 **Unit Testing in Python**
+    - Use `python -m unittest test_module.py`
+    - Common assertions: `assertEqual`, `assertRaise`
+- I learned about **TDD (Test-Driven Development)**: A method to write software where you first write the tests, then write the code.
+- **DRY (Don't Repeat Yourself)**
+  - Your code should have as little repetition as possible.
+  - Less repetition means fewer bugs.
 
-## Python
+---
 
-- Unit Test
-  - `python -m unittest test_module.py`
-  - assertEqual
-  - assertRaise
+### 📘 **Golang**
+
+- How to create a **function**.
+- How to call a **function**.
+- How to use **arrays** and operate them.
+
+---
+
+### 🐍 **Python**
+
+- **Unit Testing**
+  - Use `python -m unittest test_module.py`
+  - Common assertions: `assertEqual`, `assertRaise`.
