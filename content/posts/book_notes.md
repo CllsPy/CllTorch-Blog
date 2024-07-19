@@ -4,41 +4,60 @@ draft: false
 ShowToc: true
 ---
 
+## 📚 **Book Notes: Deep Learning**
+**Status**: 🚀 Published
+
+### **Table of Contents**
+
+- [Chapter 1](#chapter-1)
+- [Introduction](#introduction)
+- [Machine Learning](#machine-learning)
+- [Deep Learning](#deep-learning)
 
 # Chapter 1
 
+> 📝 **Tip**: Read it slowly. A lot of the terminology and math will be unfamiliar — look them up. You may need to sketch some things out or code them to understand — give yourself the space to do that. If the math is unfamiliar, a good complementary resource is *Math for Machine Learning*. Even though architectures like CNN or RNN might seem out of date in a world moving towards transformers, CNNs are still widely used, and everything old is new again with RNNs. When you’re done with the first 2 parts of the book (you can skip part 3), you should be able to code up any of the main neural network architectures in plain numpy (forward and backward passes).
 
-> Read it slowly. A lot of the terminology and math will be unfamiliar — look them up. You may need to sketch some things out or code them to get them — give yourself the space to do that. If the math is unfamiliar, a good complementary resource is Math for Machine Learning. Even though architectures like CNN or RNN might seem out of date in a world that is moving towards transformers for everything, CNNs are still widely used, and everything old is new again with RNNs. When you’re done with the first 2 parts of the book (you can skip part 3), you should be at a point where you can code up any of the main neural networks architectures in plain numpy (forward and backward passes).
+---
 
-## Introduction
+## 🌟 **Introduction**
 
-AI pode ser aplicada em: automação de trabalhos repetitivos; reconhecimento de fala e imagem; medicina e suporte a pesquisas de base.
+AI can be applied in various fields such as: automation of repetitive tasks, speech and image recognition, medicine, and foundational research support.
 
-AI consiste em solucionar problemas de modo que as máquinas aprendam com experiência (data) e entenda o mundo em termos de uma hierarquia de conceitos.
+**Artificial Intelligence** involves solving problems in a way that machines learn from experience (data) and understand the world in terms of a hierarchy of concepts.
 
-- experiência → significa que não será necessário ao humano esclarecer o que precisa ser feito.
+- **Experience** ➡️ This means humans don't need to explain every detail to the machine.
+- **Hierarchy of Concepts** ➡️ Allows the machine to learn complex concepts by breaking them down into simpler parts.
 
-- hierarquia de conceitos → permite a máquina aprender conceitos complexo quebrando eles em partes simples.
+If we build a graph showing how these concepts connect, it would be deep with many layers; hence, we call it **Deep Learning**.
 
-Se construímos um grafo mostrando como esses conceitos se conectam ele seria profundo e com várias camadas; por esse motivo chamamos AI Deep Learning.
+In daily life, a person needs a lot of knowledge, which is often informal. The big challenge for AI is how to capture this knowledge.
 
-Em sua vida cotidiana uma pessoa precisa de muito conhecimento, no geral esse conhecimento é informal, o grande desafio da AI é como capturar esse conhecimento.
+---
 
-## Machine Learning
+## 🤖 **Machine Learning**
 
-- machine learning é a capacidade que uma máquina possui de extrair ideias ou padrões de dados para construir seu próprio conhecimento.
+- **Machine Learning** is the ability of a machine to extract ideas or patterns from data to build its own knowledge.
 
-- Digamos que precise de um modelo para identificar automóveis, quais partes gostaria de mapear; talvez escolha roda e por esse motivo tenha dores de cabeça, pode ser que a imagem tenha baixa qualidade, que sombras atrapalhem o reconhecimento por parte do modelo. Você resolve dar um passo além e usa o modelo para entender o todo (entender o que é o carro): isso se chama representation learning.
+- For instance, if you need a model to identify cars, you might choose to map parts like wheels. This can be challenging due to poor image quality or shadows that hinder recognition. To improve, you can use the model to understand the whole (what a car is): this is called **representation learning**.
 
-- Um exemplo de representation learning é o autoencoder; ele é formado por um encoder: cria uma representação para a entrada e o decoder: retornar a representação para seu estado original.
+- An example of representation learning is the **autoencoder**:
+  - **Encoder**: Creates a representation for the input.
+  - **Decoder**: Returns the representation to its original state.
 
-## Deep Learning
+---
 
-- Quando se tornar impossível obter a representação usamos Deep Learning.
+## 🧠 **Deep Learning**
 
-- O problema é resolvido porque Deep Learning permite a máquina a representar conceitos complexos de forma simples.
+- When it becomes impossible to obtain the representation using simpler methods, we use **Deep Learning**.
 
-- Um exemplo clássico de Deep Learning é o MLP (multilayer perceptron).
+- Deep Learning solves problems by allowing the machine to represent complex concepts simply.
 
-Se construímos um [grafo](https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)) mostrando como esses conceitos se conectam ele seria profundo e com várias camadas; por esse motivo chamamos AI Deep Learning.
+- A classic example of Deep Learning is the **MLP (Multilayer Perceptron)**.
+
+If we build a [graph](https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)) showing how these concepts connect, it would be deep with many layers; hence, we call it **Deep Learning**.
+
+---
+
+I hope this makes the content more engaging and easier to read! Let me know if there's anything else you'd like to add or change.
 
