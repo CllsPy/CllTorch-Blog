@@ -6,8 +6,6 @@ date: 2024-01-01
 ---
 
 
-# Useful Resources
-
 ## Decision Intelligence
 - [Making Better Decisions with Cassie Kozyrkov, Google's First Chief Decision Scientist](https://www.youtube.com/watch?v=h0gbw-Ur_do) - YouTube
 
