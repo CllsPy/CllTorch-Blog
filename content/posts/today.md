@@ -25,3 +25,12 @@ ShowToc: true
 - **Unit Testing**
   - Use `python -m unittest test_module.py`
   - Common assertions: `assertEqual`, `assertRaise`.
+
+
+## Dia 02: 20 de Julho de 2024
+
+- Como autentica HuggingFace usando tela de login no Google Colabs
+- Descobri o modelo [HuggingFaceTB/SmolLM-1.7B-Instruct](https://huggingface.co/HuggingFaceTB/SmolLM-1.7B-Instruct?text=write+a+poem)
+- Aprendi como funciona o Prompt Template do LangChain
+- Entendi porque é importante padronizar o prompt
+- Aprendi a criar API e usar ela no Colabs
