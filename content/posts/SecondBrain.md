@@ -3,6 +3,9 @@ title: "Second Brain"
 draft: false
 ShowToc: true
 date: 2024-01-01
+tags: ["personal development", "knowledge management", "productivity"]
+---
+
 ---
 
 
