@@ -1,7 +1,9 @@
 ---
-title: "What I learned"
+title: "Today I Learned"
 draft: false
 ShowToc: true
+date: 2024-04-01
+tags: ["books", "knowledge management"]
 ---
 
 # 🌟 **Today I Learned (TIL)**
@@ -14,7 +16,7 @@ ShowToc: true
 - How to make a Unit Test using Python:
   - 🐍 **Unit Testing in Python**
     - Use `python -m unittest test_module.py`
-    - Common assertions: `assertEqual`, `assertRaise`
+    - Common assertions: `assertEqual`, `assertRaises`
 - I learned about **TDD (Test-Driven Development)**: A method to write software where you first write the tests, then write the code.
 - **DRY (Don't Repeat Yourself)**
   - Your code should have as little repetition as possible.
@@ -24,16 +26,15 @@ ShowToc: true
 - How to use **arrays** and operate them.
 - **Unit Testing**
   - Use `python -m unittest test_module.py`
-  - Common assertions: `assertEqual`, `assertRaise`.
-
+  - Common assertions: `assertEqual`, `assertRaises`.
 
 ## Day 2: July 20, 2024
 
-- Learned how to authenticate HuggingFace using the login screen in Google Colabs.
+- Learned how to authenticate HuggingFace using the login screen in Google Colab.
 - Discovered the model [HuggingFaceTB/SmolLM-1.7B-Instruct](https://huggingface.co/HuggingFaceTB/SmolLM-1.7B-Instruct?text=write+a+poem).
 - Explored the functionality of Prompt Template in LangChain.
 - Understood the importance of standardizing prompts.
-- Learned how to create an API and use it in Colabs.
-- Aprendi como funciona o Prompt Template do LangChain
-- Entendi porque é importante padronizar o prompt
-- Aprendi a criar API e usar ela no Colabs
+- Learned how to create an API and use it in Colab.
+- Learned how the Prompt Template in LangChain works.
+- Understood why it is important to standardize the prompt.
+- Learned how to create an API and use it in Colab.
