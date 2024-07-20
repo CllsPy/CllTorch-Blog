@@ -2,10 +2,9 @@
 title: "Deep Learning"
 draft: false
 ShowToc: true
+date: 2024-02-01
+tags: ["books"]
 ---
-
-## 📚 **Book Notes: Deep Learning**
-**Status**: 🚀 Published
 
 ### **Table of Contents**
 
