@@ -2,7 +2,9 @@
 title: "Second Brain"
 draft: false
 ShowToc: true
+date: 2024-01-01
 ---
+
 
 # Useful Resources
 
