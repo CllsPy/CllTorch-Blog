@@ -3,7 +3,7 @@ title: "Machine Learning with Pytorch and Scikit-Learn"
 draft: false
 ShowToc: true
 date: 2024-03-01
-tags: ["books"]
+tags: ["books", "ml"]
 ---
 
 # 1
