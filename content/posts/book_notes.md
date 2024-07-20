@@ -1,5 +1,5 @@
 ---
-title: "Book Notes: Deep Learning"
+title: "Deep Learning"
 draft: false
 ShowToc: true
 ---
