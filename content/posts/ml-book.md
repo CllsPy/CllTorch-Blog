@@ -2,17 +2,19 @@
 title: "Machine Learning with Pytorch and Scikit-Learn"
 draft: false
 ShowToc: true
+date: 2024-07-20
+tags: ["books"]
 ---
 
 # 1
 
 ## Giving Computers the Ability to Learn from Data
 
-Machine Learning é um sub-campo da IA, consistem em algorítimos capazes de aprender com dados. Isso possibilita que nós humanos não tenhamos que explicitamente dizer o que o computador/máquina precisa fazer.
+Machine Learning is a sub-field of AI, consisting of algorithms capable of learning from data. This allows us humans to not have to explicitly tell the computer/machine what it needs to do.
 
-- Tipos de ML
+- Types of ML
 
-- Supervisionado
+- Supervised
 
   - Labeled data
   
@@ -20,7 +22,7 @@ Machine Learning é um sub-campo da IA, consistem em algorítimos capazes de apr
   
   - Predict future
 
-- Não-supervisionado
+- Unsupervised
   
   - No Labels/targets
   
@@ -28,7 +30,7 @@ Machine Learning é um sub-campo da IA, consistem em algorítimos capazes de apr
   
   - Find hidden structure
 
-- Reforço
+- Reinforcement
 
   - Decision process
   
@@ -36,28 +38,28 @@ Machine Learning é um sub-campo da IA, consistem em algorítimos capazes de apr
   
   - Learn series of actions
 
-- Supervisionado
+- Supervised
 
-  - Usamos dados com labels ou seja com indicações, por exemplo, um conjunto de dados com uma coluna contendo registros feitos por humanas para quando uma mensagem é ou não spam.
+  - We use data with labels, that is, with indications, for example, a data set with a column containing records made by humans to indicate whether a message is spam or not.
   
-  - A classificação é um tipo Supervisionado e consiste em obter uma saída que pode ser binária (sim/não ou spam/não-spam) ou multiclasse (inverno, verão, outono)
+  - Classification is a type of Supervised learning and consists of obtaining an output that can be binary (yes/no or spam/not-spam) or multiclass (winter, summer, autumn).
   
-  - A regressão consiste em obter um resultado numérico na saída: a temperatura, idade ou valor de um imóvel.
+  - Regression consists of obtaining a numerical result as output: temperature, age, or the value of a property.
 
-- Reforço
+- Reinforcement
 
-  - No reinforcement learning treina-se um modelo capaz de melhorar sua performance à partir da interação com o ambiente.
+  - In reinforcement learning, a model is trained to improve its performance by interacting with the environment.
   
-  - Um exemplo é o jogo de Xadrez
+  - An example is the game of Chess.
 
 - Unsupervised Learning
 
-  - No tipo supervisionado sabemos a resposta correta; já no não-supervisionado não.
+  - In the supervised type, we know the correct answer; in the unsupervised type, we do not.
   
-  - Clustering é uma técnica que permite encontrar padrões nos dados (sub-grupos).
+  - Clustering is a technique that allows finding patterns in data (sub-groups).
   
-  - Dimensionality reduction condensa informações do conjunto de dados e elimina o que não é relevante.
+  - Dimensionality reduction condenses information from the data set and eliminates what is not relevant.
 
-Cross-Validation ajuda em verificar a eficácia de um modelo sem que tenhamos que usar o conjunto de teste.
+Cross-Validation helps verify the effectiveness of a model without having to use the test set.
 
-Hyperparameter optimization existe porque por padrão os parâmetros do modelo podem não ser o ideal para o nosso problema específico.
+Hyperparameter optimization exists because by default, the model parameters may not be ideal for our specific problem.
