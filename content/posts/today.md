@@ -45,14 +45,19 @@ tags: ["books", "knowledge management"]
 - How to mine GitHub using their API
 
 
-### Machine Learning
+**Machine Learning**
 
 - How to train a Perceptron
 - Bias, Batch Size
 - Loss Function
 - Activation Function
 
-### Resources
+**matplotlib and numpy**
+- np.meshgirid(x, y)
+- plt.contourf()
+- plt.clf()
+
+**Resources**
 
 - [REST API endpoints for users](https://docs.github.com/en/rest/users?apiVersion=2022-11-28)
 - [Mining the social web](https://github.com/mikhailklassen/Mining-the-Social-Web-3rd-Edition)
@@ -60,3 +65,4 @@ tags: ["books", "knowledge management"]
 - [Neural Networks and Perceptron - Lesson 9](https://www.youtube.com/watch?v=fEukSrpDPH0)
 - [Perceptron For Dummies](https://jilp.org/cbp/Daniel-slides.PDF)
 - [Perceptrons, Marvin](https://www.amazon.fr/Perceptrons-Intro-Computational-Geometry-Exp/dp/0262631113)
+- [What is the purpose of meshgrid in NumPy?](https://stackoverflow.com/questions/36013063/what-is-the-purpose-of-meshgrid-in-numpy)
