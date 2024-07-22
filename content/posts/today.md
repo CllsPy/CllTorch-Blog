@@ -44,7 +44,19 @@ tags: ["books", "knowledge management"]
 - How to use the PyGithub library
 - How to mine GitHub using their API
 
-  **Resources**
-  - [REST API endpoints for users](https://docs.github.com/en/rest/users?apiVersion=2022-11-28)
-  - [Mining the social web](https://github.com/mikhailklassen/Mining-the-Social-Web-3rd-Edition)
-  - [Managing your personal access tokens](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens)
+
+### Machine Learning
+
+- How to train a Perceptron
+- Bias, Batch Size
+- Loss Function
+- Activation Function
+
+### Resources
+
+- [REST API endpoints for users](https://docs.github.com/en/rest/users?apiVersion=2022-11-28)
+- [Mining the social web](https://github.com/mikhailklassen/Mining-the-Social-Web-3rd-Edition)
+- [Managing your personal access tokens](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens)
+- [Neural Networks and Perceptron - Lesson 9](https://www.youtube.com/watch?v=fEukSrpDPH0)
+- [Perceptron For Dummies](https://jilp.org/cbp/Daniel-slides.PDF)
+- [Perceptrons, Marvin](https://www.amazon.fr/Perceptrons-Intro-Computational-Geometry-Exp/dp/0262631113)
