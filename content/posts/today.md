@@ -38,3 +38,13 @@ tags: ["books", "knowledge management"]
 - Learned how the Prompt Template in LangChain works.
 - Understood why it is important to standardize the prompt.
 - Learned how to create an API and use it in Colab.
+
+## Day 3: July 22, 2024
+- How to create a Personal Access Token on GitHub
+- How to use the PyGithub library
+- How to mine GitHub using their API
+
+  **Resources**
+  - [REST API endpoints for users](https://docs.github.com/en/rest/users?apiVersion=2022-11-28)
+  - [Mining the social web](https://github.com/mikhailklassen/Mining-the-Social-Web-3rd-Edition)
+  - [Managing your personal access tokens](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens)
