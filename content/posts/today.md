@@ -66,3 +66,19 @@ tags: ["books", "knowledge management"]
 - [Perceptron For Dummies](https://jilp.org/cbp/Daniel-slides.PDF)
 - [Perceptrons, Marvin](https://www.amazon.fr/Perceptrons-Intro-Computational-Geometry-Exp/dp/0262631113)
 - [What is the purpose of meshgrid in NumPy?](https://stackoverflow.com/questions/36013063/what-is-the-purpose-of-meshgrid-in-numpy)
+
+## Day 4: July 23, 2024
+
+- I learned that there are five stages to training a Machine Learning model.
+- I learned about the `bincount` command in Numpy, which counts the occurrence of similar values in an array.
+
+**Sklearn**
+
+- I learned how to implement the Perceptron algorithm in scikit-learn.
+- I learned about the OvO and OvR techniques to enable models limited to binary classifications (Logit, SVM) to perform classification on multi-class data.
+  
+**Resources**
+
+- [One-vs-Rest and One-vs-One for Multi-Class Classification](https://machinelearningmastery.com/one-vs-rest-and-one-vs-one-for-multi-class-classification/)
+- Page 503, Machine Learning: A Probabilistic Perspective, 2012.
+- [Choosing the right estimator - Scikit-learn](https://scikit-learn.org/1.3/tutorial/machine_learning_map/index.html)
