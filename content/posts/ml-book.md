@@ -76,3 +76,27 @@ The Adaline neuron inaugurates the use of an algorithm to reduce the cost functi
 ### Gradient Descent
 
 Imagine you are on top of a mountain; Gradient Descent would be like trying to reach the lowest possible point (descending the mountain).
+
+# Scaling
+
+Scaling allows for better results when using Gradient Descent.
+
+Scaling is useful because it keeps the weights within the same range of values. Imagine, on the other hand, features that are out of scale, where one weight is 10 times larger than another (for example), which disrupts the Gradient Descent process.
+
+## Large-scale Machine Learning and Stochastic Gradient Descent
+
+Gradient Descent updates weights based on the sum of errors in relation to all training examples, \(x_i\).
+
+The downside is that if our dataset is extensive, this can take a considerable amount of time. Therefore, an alternative is Stochastic Gradient Descent (SGD).
+
+SGD updates weights for each example, resulting in faster convergence compared to GD.
+
+## A Tour of Machine Learning Classifiers Using Scikit-Learn
+
+A summary for training a supervised machine learning model could be:
+
+1. **Select features**
+2. **Choose a metric**
+3. **Select the algorithm and train the model**
+4. **Evaluate the algorithm's performance**
+5. **Adjust the model's parameters and fine-tune it**
