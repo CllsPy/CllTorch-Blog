@@ -4,6 +4,7 @@ draft: false
 ShowToc: true
 date: 2024-04-01
 tags: ["books", "knowledge management"]
+author: Carlos L.
 ---
 
 # 🌟 **Today I Learned (TIL)**
@@ -82,3 +83,14 @@ tags: ["books", "knowledge management"]
 - [One-vs-Rest and One-vs-One for Multi-Class Classification](https://machinelearningmastery.com/one-vs-rest-and-one-vs-one-for-multi-class-classification/)
 - Page 503, Machine Learning: A Probabilistic Perspective, 2012.
 - [Choosing the right estimator - Scikit-learn](https://scikit-learn.org/1.3/tutorial/machine_learning_map/index.html)
+
+## Day 5: July 23, 2024
+
+- I learned what Logistic Regression is.
+- I learned what the Sigmoid Function is.
+- I learned the difference between Gradient Descent and Stochastic Gradient Descent.
+
+**Resources**
+- [Tutorial 35 - Logistic Regression In-depth Intuition - Part 1 | Data Science](https://www.youtube.com/watch?v=L_xBe7MbPwk)
+- [Tutorial 36 - Logistic Regression In-depth Intuition - Part 2 | Data Science](https://www.youtube.com/watch?v=uFfsSgQgerw)
+- [Why Is Logistic Regression Called “Logistic Regression” And Not Logistic Classification?](https://medium.com/@praveenraj.gowd/why-is-logistic-regression-called-logistic-regression-and-not-a-logistic-classification-5a418293040d#:~:text=Linear%20regression%20gives%20a%20continuous,%E2%80%9CRegression%E2%80%9D%20in%20its%20name.)
