@@ -6,7 +6,7 @@ date: 2024-03-01
 tags: ["books", "ml"]
 ---
 
-# Giving Computers the Ability to Learn from Data
+# 1. Giving Computers the Ability to Learn from Data
 
 Machine Learning is a sub-field of AI, consisting of algorithms capable of learning from data. This allows us humans not to have to explicitly tell the computer/machine what to do.
 
@@ -57,7 +57,7 @@ Cross-Validation helps in verifying the effectiveness of a model without having 
 
 Hyperparameter optimization exists because, by default, the model parameters may not be ideal for our specific problem.
 
-# Training Simple Machine Learning Algorithms for Classification
+# 2. Training Simple Machine Learning Algorithms for Classification
 
 The **Perceptron** is a binary classifier with two characteristics:
 - The weights are initialized randomly.
@@ -77,13 +77,13 @@ The Adaline neuron inaugurates the use of an algorithm to reduce the cost functi
 
 Imagine you are on top of a mountain; Gradient Descent would be like trying to reach the lowest possible point (descending the mountain).
 
-# Scaling
+### Scaling
 
 Scaling allows for better results when using Gradient Descent.
 
 Scaling is useful because it keeps the weights within the same range of values. Imagine, on the other hand, features that are out of scale, where one weight is 10 times larger than another (for example), which disrupts the Gradient Descent process.
 
-## Large-scale Machine Learning and Stochastic Gradient Descent
+### Large-scale Machine Learning and Stochastic Gradient Descent
 
 Gradient Descent updates weights based on the sum of errors in relation to all training examples, \(x_i\).
 
@@ -91,7 +91,7 @@ The downside is that if our dataset is extensive, this can take a considerable a
 
 SGD updates weights for each example, resulting in faster convergence compared to GD.
 
-## A Tour of Machine Learning Classifiers Using Scikit-Learn
+# 3. A Tour of Machine Learning Classifiers Using Scikit-Learn
 
 A summary for training a supervised machine learning model could be:
 
