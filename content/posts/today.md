@@ -84,7 +84,7 @@ author: Carlos L.
 - Page 503, Machine Learning: A Probabilistic Perspective, 2012.
 - [Choosing the right estimator - Scikit-learn](https://scikit-learn.org/1.3/tutorial/machine_learning_map/index.html)
 
-## Day 5: July 23, 2024
+## Day 5: July 27, 2024
 
 - I learned what Logistic Regression is.
 - I learned what the Sigmoid Function is.
