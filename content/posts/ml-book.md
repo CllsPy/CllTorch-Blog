@@ -4,6 +4,7 @@ draft: false
 ShowToc: true
 date: 2024-03-01
 tags: ["books", "ml"]
+author: Carlos L.
 ---
 
 # 1. Giving Computers the Ability to Learn from Data
@@ -100,3 +101,7 @@ A summary for training a supervised machine learning model could be:
 3. **Select the algorithm and train the model**
 4. **Evaluate the algorithm's performance**
 5. **Adjust the model's parameters and fine-tune it**
+
+Finding an efficient learning rate involves testing because if the eta is too large, the model may "jump" over the global minimum. On the other hand, if it's too small, it may take longer to converge, which implies more processing.
+
+The major disadvantage of the Perceptron (besides the limitation of not being able to be used for data with multiple targets/outputs) is that there is no convergence if the data is not linearly separable.
