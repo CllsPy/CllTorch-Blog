@@ -105,3 +105,25 @@ A summary for training a supervised machine learning model could be:
 Finding an efficient learning rate involves testing because if the eta is too large, the model may "jump" over the global minimum. On the other hand, if it's too small, it may take longer to converge, which implies more processing.
 
 The major disadvantage of the Perceptron (besides the limitation of not being able to be used for data with multiple targets/outputs) is that there is no convergence if the data is not linearly separable.
+
+## Tackling Overfitting via Regularization
+
+Overfitting is an inherent problem in machine learning models that occurs when they fail to make accurate predictions on data other than the training data. When this happens, the model is said to have high variance, often due to the large number of parameters.
+
+Underfitting, on the other hand, occurs when the model fails to capture the patterns in the data, resulting in poor performance on unseen data (test data).
+
+### The Bias-Variance Tradeoff
+
+In the machine learning literature, the terms "high variance" and "high bias" refer to overfitting and underfitting, respectively. The model's variance refers to the consistency with which it classifies a class correctly each time the dataset is retrained, while bias refers to the error (how far the model's prediction is from the true value) in each of these instances.
+
+Regularization is a method capable of preventing high variance by eliminating noise (irrelevant information) from the data. It involves adding information to the data to penalize extreme values.
+
+### Regularization and Feature Normalization
+
+For regularization to be effective, the data must be on the same scale. The parameter λ represents the strength of the regularization; the larger the value, the stronger the regularization. It is common for bias not to be regularized; instead, the weight is adjusted.
+
+In the context of the Support Vector Machine (SVM) model, the term C is inversely proportional to regularization; decreasing C increases regularization. However, caution is needed when using regularization, as it can lead to underfitting.
+
+## Maximum Margin Classification with Support Vector Machines
+
+Support Vector Machine (SVM) is another machine learning algorithm, inspired by the Perceptron. Unlike the Perceptron, which minimizes misclassifications, SVM maximizes the margin. The margin is defined as the distance between the decision boundary and the closest data points (support vectors).
