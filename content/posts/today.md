@@ -94,3 +94,17 @@ author: Carlos L.
 - [Tutorial 35 - Logistic Regression In-depth Intuition - Part 1 | Data Science](https://www.youtube.com/watch?v=L_xBe7MbPwk)
 - [Tutorial 36 - Logistic Regression In-depth Intuition - Part 2 | Data Science](https://www.youtube.com/watch?v=uFfsSgQgerw)
 - [Why Is Logistic Regression Called “Logistic Regression” And Not Logistic Classification?](https://medium.com/@praveenraj.gowd/why-is-logistic-regression-called-logistic-regression-and-not-a-logistic-classification-5a418293040d#:~:text=Linear%20regression%20gives%20a%20continuous,%E2%80%9CRegression%E2%80%9D%20in%20its%20name.)
+
+## Day 6: July 31, 2024
+
+- I learned about the concept of "maximum margin" in machine learning models.
+- I understood that larger margins help reduce generalization error, while smaller margins increase the risk of overfitting or underfitting.
+- I became familiar with the concept of "slack variables," introduced by W. Vapnik in 1995, which make SVM models more flexible when data is not linearly separable.
+- I learned that these variables are represented by the parameter \( C \), which controls error tolerance and the trade-off between bias and variance.
+- I realized that adjusting the value of \( C \) is crucial for ensuring the model generalizes well to new data, avoiding overfitting and underfitting.
+
+**Resources**
+- [StatQuest: Logistic Regression](https://www.youtube.com/watch?v=yIYKR4sgzI8&list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe)
+- Chris J.C. Burges’ excellent explanation in A Tutorial on Support Vector Machines for Pattern Recognition (Data Mining and Knowledge Discovery, 2(2): 121-167, 1998)
+- Vladimir Vapnik’s book The Nature of Statistical Learning Theory, Springer Science+Business  Media, Vladimir Vapnik, 2000
+- Andrew Ng’s very detailed lecture notes available at https://see.stanford.edu/materials/aimlcs229/cs229-notes3.pdf
