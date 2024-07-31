@@ -8,6 +8,35 @@ tags: ["personal development", "knowledge management", "productivity"]
 
 ---
 
+# How to learn
+
+## Prática de recuperar
+- Faça testes
+- Formule perguntas durante a aula/palestra
+  - Quais ideias principais?
+  - Quais termos são novos?
+  - Como eu definiria?
+
+## Intercale os conteúdos
+- Faça questões de conteúdos diferentes e que sejam próximos
+- 20 questões (10 de ML e 10 de DP).
+
+## Elaboração
+- Explique o conteúdo com suas palavras
+- Busque entender como os conceitos funcionam no mundo real
+- Encontre uma metáfora para o conteúdo
+
+## Geração
+- Responda perguntas antes de saber a resposta
+- Tente solucionar um problema com base em sua experiência
+
+## Reflexão
+- Sem consultar as notas, tente recordar todo o conteúdo visto
+
+## Calibração
+- Realize tarefas sem consultas para averiguar se realmente sabe o conteúdo
+
+## What to learn
 
 ## Decision Intelligence
 - [Making Better Decisions with Cassie Kozyrkov, Google's First Chief Decision Scientist](https://www.youtube.com/watch?v=h0gbw-Ur_do) - YouTube
@@ -83,17 +112,4 @@ tags: ["personal development", "knowledge management", "productivity"]
 - [Calculus 1 — Limit with Python](https://www.medium.com/) - Medium
 - [Line Charts in Python](https://www.medium.com/) - Medium
 
-## Miscellaneous
-- [Batman (2016) Annual 2022 #5](https://readcomicsonline.ru/comic/batman-2016/annual2022/5) - Comics
-- [DC Master Reading Order](https://www.dcuniverse.com/)
-- [movie: Nope](https://www.imdb.com/title/tt10954600/)
-- [Live Writing DNA Code!](https://www.youtube.com/watch?v=h0gbw-Ur_do) - YouTube
-- [Building a Compiler in C - Lexical Analysis](https://www.youtube.com/watch?v=h0gbw-Ur_do) - YouTube
-- [CUDA MODE](https://www.youtube.com/watch?v=h0gbw-Ur_do) - YouTube
-- [AI Reading List (by Ilya Sutskever) - Part 1](https://www.youtube.com/watch?v=h0gbw-Ur_do) - YouTube
-- [AI Reading List (by Ilya Sutskever) - Part 2](https://www.youtube.com/watch?v=h0gbw-Ur_do) - YouTube
-- [FP come from Twitter](https://www.twitter.com/)
-- [Medium Premium Bypass Unlocker Free](https://www.medium.com/)
-- [Make a GUI Task Management App in Pure C](https://www.youtube.com/watch?v=h0gbw-Ur_do) - YouTube
-- [Scientific Paper](http://halfonlab.ccr.buffalo.edu/other_docs/scientific_paper.pdf)
-- [Python for HPC: Community Materials](https://www.medium.com/)
+
