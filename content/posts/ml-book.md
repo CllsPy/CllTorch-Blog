@@ -127,3 +127,25 @@ In the context of the Support Vector Machine (SVM) model, the term C is inversel
 ## Maximum Margin Classification with Support Vector Machines
 
 Support Vector Machine (SVM) is another machine learning algorithm, inspired by the Perceptron. Unlike the Perceptron, which minimizes misclassifications, SVM maximizes the margin. The margin is defined as the distance between the decision boundary and the closest data points (support vectors).
+
+## Maximum Margin Intuition
+
+The larger the margin, the lower the generalization error (the likelihood of the model becoming too complex or too simple and not performing well on unseen data). Smaller margins are associated with a higher likelihood of generalization error.
+
+**Generalization Error**: This refers to the possibility of the model not learning the data patterns properly or learning them too well, which can lead to overfitting (learning too well) or underfitting (not learning well enough).
+
+The mathematics behind the concept of maximum margin is not trivial and requires parallel studies alongside books for a deeper understanding of the topic.
+
+Models with smaller margins are more vulnerable to overfitting, meaning they are more likely to perform poorly on test data.
+
+## Dealing with a Nonlinearly Separable Case Using Slack Variables**
+
+In 1995, W. Vapnik proposed the concept of slack variables, which led to the idea of soft-margin classification.
+
+The motivation for slack variables arose from the need for greater flexibility in the SVM model in situations where data were not linearly separable, allowing for convergence even in cases where there are classification errors, with a penalty for these errors.
+
+Slack variables are represented by the parameter \( C \). A higher value of \( C \) means we are less tolerant of error (more punishment), while a lower value means more tolerance (less punishment).
+
+We can use the value of \( C \) to control the bias-variance tradeoff, which regulates how well the model learns the data patterns.
+
+This idea is related to the concept of regularization, meaning that higher values of \( C \) increase bias (underfitting) and reduce variance (overfitting).
