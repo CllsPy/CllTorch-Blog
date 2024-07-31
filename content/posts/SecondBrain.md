@@ -36,7 +36,7 @@ tags: ["personal development", "knowledge management", "productivity"]
 ## Calibração
 - Realize tarefas sem consultas para averiguar se realmente sabe o conteúdo
 
-## What to learn
+# What to learn
 
 ## Decision Intelligence
 - [Making Better Decisions with Cassie Kozyrkov, Google's First Chief Decision Scientist](https://www.youtube.com/watch?v=h0gbw-Ur_do) - YouTube
