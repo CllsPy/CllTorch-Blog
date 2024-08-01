@@ -7,6 +7,9 @@ tags: ["books", "ml"]
 author: Carlos L.
 ---
 
+![image](https://github.com/user-attachments/assets/1e77554c-6a42-4907-b9d1-060747a6b963)
+
+
 # 1. Giving Computers the Ability to Learn from Data
 
 Machine Learning is a sub-field of AI, consisting of algorithms capable of learning from data. This allows us humans not to have to explicitly tell the computer/machine what to do.
