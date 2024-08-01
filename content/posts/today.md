@@ -108,3 +108,11 @@ author: Carlos L.
 - Chris J.C. Burges’ excellent explanation in A Tutorial on Support Vector Machines for Pattern Recognition (Data Mining and Knowledge Discovery, 2(2): 121-167, 1998)
 - Vladimir Vapnik’s book The Nature of Statistical Learning Theory, Springer Science+Business  Media, Vladimir Vapnik, 2000
 - Andrew Ng’s very detailed lecture notes available at https://see.stanford.edu/materials/aimlcs229/cs229-notes3.pdf
+
+## Day 7: Aug 1, 2024
+
+
+**Resources**
+- [Likelihood Function](https://en.wikipedia.org/wiki/Likelihood_function)
+- [Maximum Likelihood Estimation in Logistic Regression](https://arunaddagatla.medium.com/maximum-likelihood-estimation-in-logistic-regression-f86ff1627b67)
+- [Machine Learning Notation](https://nthu-datalab.github.io/ml/slides/Notation.pdf)
