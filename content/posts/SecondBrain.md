@@ -6,36 +6,6 @@ date: 2024-01-01
 tags: ["personal development", "knowledge management", "productivity"]
 ---
 
----
-
-# How to learn
-
-## Prática de recuperar
-- Faça testes
-- Formule perguntas durante a aula/palestra
-  - Quais ideias principais?
-  - Quais termos são novos?
-  - Como eu definiria?
-
-## Intercale os conteúdos
-- Faça questões de conteúdos diferentes e que sejam próximos
-- 20 questões (10 de ML e 10 de DP).
-
-## Elaboração
-- Explique o conteúdo com suas palavras
-- Busque entender como os conceitos funcionam no mundo real
-- Encontre uma metáfora para o conteúdo
-
-## Geração
-- Responda perguntas antes de saber a resposta
-- Tente solucionar um problema com base em sua experiência
-
-## Reflexão
-- Sem consultar as notas, tente recordar todo o conteúdo visto
-
-## Calibração
-- Realize tarefas sem consultas para averiguar se realmente sabe o conteúdo
-
 # What to learn
 
 ## Decision Intelligence
