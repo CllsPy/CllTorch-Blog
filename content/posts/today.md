@@ -111,6 +111,19 @@ author: Carlos L.
 
 ## Day 7: Aug 1, 2024
 
+- Today I learned about decision tree learning.
+- Tree-based models are a good choice when interpretability is crucial.
+- Data is classified based on the questions the model asks.
+- The process starts at the top of the tree, selecting the feature with the highest Information Gain (IG).
+- This process is repeated until the branches are pure, meaning a class has been chosen.
+- In practice, this process can easily lead to overfitting.
+- The goal is to choose the feature that provides the highest possible gain in information.
+- To achieve this, an objective function is defined and optimized using the Decision Tree algorithm.
+- Mathematically, Information Gain is the difference between the impurity of the parent node and the sum of the impurities of the child nodes.
+- The lower the impurity of the children, the higher the gain.
+- Computationally, it can be impractical, so sklearn uses the binary decision tree algorithm.
+- The impurity measures used by binary decision trees include: Gini impurity (IG), Entropy (IH), and Classification Error (IE).
+
 
 **Resources**
 - [Likelihood Function](https://en.wikipedia.org/wiki/Likelihood_function)
