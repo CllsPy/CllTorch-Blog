@@ -111,6 +111,24 @@ author: Carlos L.
 
 ## Day 7: Aug 1, 2024
 
+- I learned that Logistic Regression tries to maximize conditional likelihoods.
+- I became familiar with the concept of conditional likelihoods.
+- I learned that Logistic Regression is more vulnerable to outliers than SVM.
+- I understood that Logistic Regression is simpler to explain and therefore more attractive for streaming data.
+- I learned about the SGDClassifier in scikit-learn, which allows for incremental training.
+- I became familiar with the possibility of initializing the SGDClassifier with Perceptron, Logistic Regression, and SVM.
+- I understood that we can use SVM with a kernel to solve nonlinear problems.
+- I learned about kernel methods for linearly inseparable data.
+- I comprehended the use of the kernel trick to classify nonlinear data in a high-dimensional space.
+- I learned that the Gaussian Kernel is one of the most common kernel methods.
+
+**Resources**
+- [Likelihood Function](https://en.wikipedia.org/wiki/Likelihood_function)
+- [Maximum Likelihood Estimation in Logistic Regression](https://arunaddagatla.medium.com/maximum-likelihood-estimation-in-logistic-regression-f86ff1627b67)
+- [Machine Learning Notation](https://nthu-datalab.github.io/ml/slides/Notation.pdf)
+
+  ## Day 8: Aug 3, 2024
+
 - Today I learned about decision tree learning.
 - Tree-based models are a good choice when interpretability is crucial.
 - Data is classified based on the questions the model asks.
@@ -123,27 +141,6 @@ author: Carlos L.
 - The lower the impurity of the children, the higher the gain.
 - Computationally, it can be impractical, so sklearn uses the binary decision tree algorithm.
 - The impurity measures used by binary decision trees include: Gini impurity (IG), Entropy (IH), and Classification Error (IE).
-
-
-**Resources**
-- [Likelihood Function](https://en.wikipedia.org/wiki/Likelihood_function)
-- [Maximum Likelihood Estimation in Logistic Regression](https://arunaddagatla.medium.com/maximum-likelihood-estimation-in-logistic-regression-f86ff1627b67)
-- [Machine Learning Notation](https://nthu-datalab.github.io/ml/slides/Notation.pdf)
-
-  ## Day 8: Aug 3, 2024
-
-- Hoje aprendi sobre aprendizado de árvore de decisão.
-- Modelos baseados em árvore são uma boa escolha quando a interpretabilidade é crucial.
-- Os dados são classificados com base nas perguntas que o modelo faz.
-- O processo começa no topo da árvore, selecionando o recurso com o maior Ganho de Informação (IG).
-- Esse processo é repetido até que os ramos sejam puros, significando que uma classe foi escolhida.
-- Na prática, esse processo pode facilmente levar ao sobreajuste.
-- O objetivo é escolher o recurso que oferece o maior ganho possível em informação.
-- Para alcançar isso, uma função objetiva é definida e otimizada usando o algoritmo de Árvore de Decisão.
-- Matematicamente, o Ganho de Informação é a diferença entre a impureza do nó pai e a soma das impurezas dos nós filhos.
-- Quanto menor a impureza dos filhos, maior o ganho.
-- Computacionalmente, pode ser impraticável, então o sklearn usa o algoritmo de árvore de decisão binária.
-- As medidas de impureza usadas pelas árvores de decisão binária incluem: Impureza de Gini (IG), Entropia (IH) e Erro de Classificação (IE).
 
 **Resources**
 - [Binary Search](https://www.kaggle.com/discussions/accomplishments/523939#:~:text=Futher%20Readings-,Binary%20Search,-Add%20Tags)
