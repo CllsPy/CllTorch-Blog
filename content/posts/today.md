@@ -127,7 +127,7 @@ author: Carlos L.
 - [Maximum Likelihood Estimation in Logistic Regression](https://arunaddagatla.medium.com/maximum-likelihood-estimation-in-logistic-regression-f86ff1627b67)
 - [Machine Learning Notation](https://nthu-datalab.github.io/ml/slides/Notation.pdf)
 
-  ## Day 8: Aug 3, 2024
+## Day 8: Aug 3, 2024
 
 - Today I learned about decision tree learning.
 - Tree-based models are a good choice when interpretability is crucial.
@@ -145,3 +145,23 @@ author: Carlos L.
 **Resources**
 - [Binary Search](https://www.kaggle.com/discussions/accomplishments/523939#:~:text=Futher%20Readings-,Binary%20Search,-Add%20Tags)
 
+## Day 9: Aug 4, 2024
+
+- Random Forest is a technique that combines multiple decision trees.
+- This model is considered an **ensemble** of decision trees.
+- Random Forest averages the decision trees to generate a consistent result.
+- The method helps to avoid overfitting.
+- The technique consists of four main steps:
+  1. Create a test set.
+  2. Branch a decision tree for each test set and split the features at each node with the highest gain, based on the chosen metric.
+  3. Repeat steps 1 and 2.
+  4. Aggregate the results and choose the winning class by majority vote.
+ 
+
+### papers
+- [Generative AI Text Classification using Ensemble LLM Approaches](https://arxiv.org/pdf/2309.07755)
+
+### Userful
+- [Bloom](https://bigscience.huggingface.co/blog/bloom)
+- [DetectGPT](https://detectgpt.com/app/)
+- [Bootstrapping (statistics)](https://en.wikipedia.org/wiki/Bootstrapping_(statistics))
