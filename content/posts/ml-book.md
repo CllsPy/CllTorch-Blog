@@ -152,3 +152,12 @@ Slack variables are represented by the parameter \( C \). A higher value of \( C
 We can use the value of \( C \) to control the bias-variance tradeoff, which regulates how well the model learns the data patterns.
 
 This idea is related to the concept of regularization, meaning that higher values of \( C \) increase bias (underfitting) and reduce variance (overfitting).
+
+## Combining Multiple Decision Trees via Random Forests
+
+Random Forest can be considered an **[ensemble](https://en.wikipedia.org/wiki/Ensemble_learning)** of decision trees. What the model does is take the average of the decision trees to generate a consistent result and avoid overfitting. It consists of four (4) steps:
+
+- Create a test set
+- Branch a decision tree for each test set and split the features at each node with the highest gain (according to the chosen metric)
+- Repeat steps 1 and 2
+- Aggregate the results and choose the winning class using majority voting
