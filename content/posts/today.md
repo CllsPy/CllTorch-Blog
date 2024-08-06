@@ -176,7 +176,8 @@ author: Carlos L.
 - I learned that KNN is a non-parametric and instance-based algorithm, which adapts easily to new data but requires more resources as the amount of data increases.
 - I learned that KNN classifies data by identifying the nearest elements and choosing the class based on majority voting.
 
-  #### papers
+
+### papers
 
 - [Discriminant Function Analysis](https://www.sciencedirect.com/topics/neuroscience/discriminant-function-analysis#:~:text=Discriminant%20function%20analysis%20(DFA)%20is,normally%20distributed%20for%20the%20trait.)
 
