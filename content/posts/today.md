@@ -165,3 +165,23 @@ author: Carlos L.
 - [Bloom](https://bigscience.huggingface.co/blog/bloom)
 - [DetectGPT](https://detectgpt.com/app/)
 - [Bootstrapping (statistics)](https://en.wikipedia.org/wiki/Bootstrapping_(statistics))
+
+
+## Day 10: Aug 6, 2024
+
+- I learned that Random Forest is an ensemble learning technique that combines multiple decision trees to generate more consistent results and avoid overfitting.
+- I learned that the Random Forest process involves creating test sets, building a decision tree for each test set, repeating these steps, and finally aggregating the results through majority voting.
+- I learned that reducing the sample size increases diversity and reduces the chances of overfitting, although it may negatively impact overall performance.
+- I learned that K-nearest neighbors (KNN) is a lazy-learning algorithm that memorizes training data instead of optimizing a function.
+- I learned that KNN is a non-parametric and instance-based algorithm, which adapts easily to new data but requires more resources as the amount of data increases.
+- I learned that KNN classifies data by identifying the nearest elements and choosing the class based on majority voting.
+
+  #### papers
+
+- [Discriminant Function Analysis](https://www.sciencedirect.com/topics/neuroscience/discriminant-function-analysis#:~:text=Discriminant%20function%20analysis%20(DFA)%20is,normally%20distributed%20for%20the%20trait.)
+
+### Userful
+
+- [Bloom](https://bigscience.huggingface.co/blog/bloom)
+- [DetectGPT](https://detectgpt.com/app/)
+- [Bootstrapping (statistics)](https://en.wikipedia.org/wiki/Bootstrapping_(statistics))
