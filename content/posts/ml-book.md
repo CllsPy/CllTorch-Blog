@@ -161,3 +161,29 @@ Random Forest can be considered an **[ensemble](https://en.wikipedia.org/wiki/En
 - Branch a decision tree for each test set and split the features at each node with the highest gain (according to the chosen metric)
 - Repeat steps 1 and 2
 - Aggregate the results and choose the winning class using majority voting
+
+#4. Building Good Training Datasets – Data Preprocessing
+
+**What determines the quality of statistical models?**: The amount of useful information and the quality of the data enable the model to understand data patterns efficiently.
+
+**What activities improve data quality?**: Among the tasks that can contribute to data quality are:
+- removal of **outliers**
+- adjust **categorical** data to a format understandable to the model
+- select the most relevant **features**.
+
+## Dealing with missing data
+
+A data set may contain null values ​​for several reasons, including typing error; there is no record; typing errors. They are represented by NULL or NAN (Not a Value).
+
+## Identifying missing values ​​in tabular data
+
+To identify null values ​​in a dataset we can use the pandas library and its methods, such as `isnull()` or `info()`, the usefulness of these methods is because it is tedious to visually search for missing values ​​in the entire dataset.
+
+## Eliminating training examples or features with missing values
+
+There are also ways to handle this missing data:
+
+- Elimination
+- Replacement
+
+**Summary of the day**: In the real world, data can be presented in different ways, generally irregular, missing values ​​are one of the manifestations, they can occur for several reasons; forgetfulness, non-existence of information; typing errors. There are techniques to deal with the absence of this data, such as deleting or replacing the data.
