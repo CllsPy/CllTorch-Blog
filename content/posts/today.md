@@ -186,3 +186,9 @@ author: Carlos L.
 - [Bloom](https://bigscience.huggingface.co/blog/bloom)
 - [DetectGPT](https://detectgpt.com/app/)
 - [Bootstrapping (statistics)](https://en.wikipedia.org/wiki/Bootstrapping_(statistics))
+
+## Day 11: Aug 7, 2024
+
+- In the real world, data can be presented in different ways, generally irregular, missing values ​​are one of the manifestations, they can occur for several reasons; forgetfulness, non-existence of information; typing errors. There are techniques to deal with the absence of this data, such as deleting or replacing the data.
+- We can use `isnull().sum()` to verify all null values on a dataframe
+- To remove null data from our dataframe we can you the method .drop(), the method has some parameters i.e 'all' that removes only rows where all values are null.
