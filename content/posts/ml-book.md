@@ -162,7 +162,7 @@ Random Forest can be considered an **[ensemble](https://en.wikipedia.org/wiki/En
 - Repeat steps 1 and 2
 - Aggregate the results and choose the winning class using majority voting
 
-#4. Building Good Training Datasets – Data Preprocessing
+# 4. Building Good Training Datasets – Data Preprocessing
 
 **What determines the quality of statistical models?**: The amount of useful information and the quality of the data enable the model to understand data patterns efficiently.
 
@@ -187,3 +187,17 @@ There are also ways to handle this missing data:
 - Replacement
 
 **Summary of the day**: In the real world, data can be presented in different ways, generally irregular, missing values ​​are one of the manifestations, they can occur for several reasons; forgetfulness, non-existence of information; typing errors. There are techniques to deal with the absence of this data, such as deleting or replacing the data.
+
+### Imputing Missing Values
+
+Deleting numeric values isn't a popular choice because it can result in losing a large amount of data, leading to a significant loss of information. Usually, the technique used for handling missing data is called **interpolation**.
+
+A common interpolation strategy is to use the mean, where we replace the missing values with the average of the column. This process can be done using [scikit-learn](https://scikit-learn.org/stable/modules/impute.html).
+
+### Understanding the scikit-learn Estimator API
+
+In scikit-learn, we first use `data.fit` to learn the parameters, and then `data.transform` to apply the transformation. The array used during the fitting stage must have the same number of features when it is transformed.
+
+![image](https://github.com/user-attachments/assets/e83f352c-162e-49df-9925-226ae273d252)
+
+Models belong to a class called **estimator**, which, in addition to `fit` and `transform`, has a method for interacting with test data, called `data.predict`.
