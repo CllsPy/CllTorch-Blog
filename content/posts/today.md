@@ -192,3 +192,14 @@ author: Carlos L.
 - In the real world, data can be presented in different ways, generally irregular, missing values ​​are one of the manifestations, they can occur for several reasons; forgetfulness, non-existence of information; typing errors. There are techniques to deal with the absence of this data, such as deleting or replacing the data.
 - We can use `isnull().sum()` to verify all null values on a dataframe
 - To remove null data from our dataframe we can you the method .drop(), the method has some parameters i.e 'all' that removes only rows where all values are null.
+
+## Day 12: Aug 9, 2024
+
+- **I learned** that deleting missing numeric values can lead to significant information loss.
+- **I learned** about interpolation, a common technique for filling missing data by replacing null values with the column’s mean.
+- **I learned** that scikit-learn provides tools to perform interpolation of missing values.
+- **I learned** how to use the scikit-learn API:
+  - `data.fit`: Used to learn the parameters from the data.
+  - `data.transform`: Applies the learned transformation.
+  - `data.predict`: A method used by estimators to make predictions on test data.
+- **I learned** that data consistency is important, as the array used in `fit` must have the same number of features when it is transformed.
