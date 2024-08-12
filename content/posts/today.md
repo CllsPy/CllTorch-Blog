@@ -203,3 +203,9 @@ author: Carlos L.
   - `data.transform`: Applies the learned transformation.
   - `data.predict`: A method used by estimators to make predictions on test data.
 - **I learned** that data consistency is important, as the array used in `fit` must have the same number of features when it is transformed.
+
+## Day 13: Aug 12, 2024
+
+- Today I learned that nominal classes do not need to follow any specific order and can start counting from 0.
+- Today I learned that assigning ordered numerical values to nominal categorical features can lead to incorrect assumptions in machine learning models.
+- Today I learned that one-hot encoding is a technique to prevent models from assuming an ordinal relationship among nominal categories by creating a binary representation for each category.
