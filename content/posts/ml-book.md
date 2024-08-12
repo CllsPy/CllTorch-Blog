@@ -198,6 +198,14 @@ A common interpolation strategy is to use the mean, where we replace the missing
 
 In scikit-learn, we first use `data.fit` to learn the parameters, and then `data.transform` to apply the transformation. The array used during the fitting stage must have the same number of features when it is transformed.
 
-![image](https://github.com/user-attachments/assets/e83f352c-162e-49df-9925-226ae273d252)
+![image](https://miro.medium.com/v2/resize:fit:1400/1*3Anz6s5s7dYmfuWspMPbQw.png)
 
 Models belong to a class called **estimator**, which, in addition to `fit` and `transform`, has a method for interacting with test data, called `data.predict`.
+
+## Encoding Class Labels
+
+Nominal classes do not need to follow any specific order; we can start counting from 0.
+
+### Performing One-Hot Encoding on Nominal Features
+
+A common mistake in Machine Learning is to assign ordered numerical values to nominal categorical features, for example: 1 for blue, 2 for red, 3 for green. This can lead the model to assume that blue is more important than green, and so on. One way to avoid this issue is by using **one-hot encoding**.
