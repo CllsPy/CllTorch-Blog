@@ -2,7 +2,7 @@
 title: "Machine Learning with Pytorch and Scikit-Learn"
 draft: false
 ShowToc: true
-date: 2024-03-01
+date: 2024-08-13
 tags: ["books", "ml"]
 author: Carlos L.
 ---
@@ -209,3 +209,14 @@ Nominal classes do not need to follow any specific order; we can start counting 
 ### Performing One-Hot Encoding on Nominal Features
 
 A common mistake in Machine Learning is to assign ordered numerical values to nominal categorical features, for example: 1 for blue, 2 for red, 3 for green. This can lead the model to assume that blue is more important than green, and so on. One way to avoid this issue is by using **one-hot encoding**.
+
+## Partitioning a Dataset into Separate Training and Test Datasets
+Dividing the data into training and test sets is important so we can evaluate the performance of our model before it is deployed in the real world.
+
+## Bringing Features onto the Same Scale
+It is uncommon for machine learning models not to benefit from feature scaling, which involves putting the data on the same scale.
+
+Normalization typically limits the range of values, usually between [0, 1]. In scikit-learn, we can achieve this using the `MinMaxScaler`. Scaling, on the other hand, adjusts the proportion of the data, but applying scaling does not normalize.
+
+**Resources**
+- [Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning](https://arxiv.org/pdf/1811.12808)
