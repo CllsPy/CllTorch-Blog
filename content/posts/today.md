@@ -213,3 +213,13 @@ author: Carlos L.
 - I learned about the benefits of bringing features onto the same scale, as most machine learning models perform better when the data is scaled.
 - I learned that normalization typically involves limiting the range of values, usually between [0, 1], and can be achieved using the `MinMaxScaler` in scikit-learn.
 - I also learned that scaling adjusts the proportion of the data, but it does not normalize the data.
+
+## Day 14: Aug 19, 2024
+
+A **Regularização** é um método que pune **weights** grandes, desse modo, a complexidade do modelo é diminuída; evitando assim, overfitting.
+
+![](https://ars.els-cdn.com/content/image/3-s2.0-B978012823504100012X-f02-13-9780128235041.gif)
+
+
+### References
+- [Student](https://bayes.wustl.edu/Manual/Student.pdf)
