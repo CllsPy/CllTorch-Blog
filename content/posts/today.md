@@ -223,3 +223,19 @@ A **Regularização** é um método que pune **weights** grandes, desse modo, a 
 
 ### References
 - [Student](https://bayes.wustl.edu/Manual/Student.pdf)
+
+## Day 15: Aug 20, 2024
+
+**Sklearn** allows access to the values for **bias** and **weight** used by the model:
+
+- intercept_ (bias)
+- coef_ (weight)
+
+The value of C and Regularization are closely connected in an inverse relationship: the smaller the value of C, the stronger the Regularization.
+
+### Sequential feature selection algorithms
+
+We can select features in two ways: extraction or selection. Selection involves choosing a few of the most relevant features from the dataset. On the other hand, extraction implies creating a new subset of features from the dataset.
+
+When the function returns `self`, meaning the object itself, it indicates that we can apply a "chain of methods":
+`obj.action1.action2...`.
