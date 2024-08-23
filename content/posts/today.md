@@ -242,7 +242,7 @@ When the function returns `self`, meaning the object itself, it indicates that w
 
 ## Day 16: Aug 23, 2024
 
-- I read the paper [Attention is All You Need](https://arxiv.org/abs/1706.03762) and Learnet that:
+- I read the paper [Attention is All You Need](https://arxiv.org/abs/1706.03762) and learned that:
   - The Transformer architecture achieves better results in translation tasks than RNNs.
   - Transformers consume fewer resources to train compared to other sequential models.
 
