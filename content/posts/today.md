@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/9232e199-d78d-47c1-9861-8ecbe2c98a4b)---
 title: "Today I Learned"
 draft: false
 ShowToc: true
@@ -239,3 +239,13 @@ We can select features in two ways: extraction or selection. Selection involves 
 
 When the function returns `self`, meaning the object itself, it indicates that we can apply a "chain of methods":
 `obj.action1.action2...`.
+
+## Day 16: Aug 23, 2024
+
+- I read the paper [Attention is All You Need](https://arxiv.org/abs/1706.03762) and Learnet that:
+  - The Transformer architecture achieves better results in translation tasks than RNNs.
+  - Transformers consume fewer resources to train compared to other sequential models.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/The-Transformer-model-architecture.png/640px-The-Transformer-model-architecture.png)
+
+- **[Hugging Face](https://huggingface.co/)** exists to solve the following dilemma: Training models from scratch or finding them in a framework different from the one you use can make the process stressful; Hugging Face simplifies this.
