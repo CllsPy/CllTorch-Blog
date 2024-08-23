@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9232e199-d78d-47c1-9861-8ecbe2c98a4b)---
+---
 title: "Today I Learned"
 draft: false
 ShowToc: true
