@@ -2,7 +2,7 @@
 title: "Perceptron: The Neuron That Will Help You Understand Neural Networks"
 draft: false
 ShowToc: true
-date: 2024-26-08
+date: 2024-08-26
 tags: ["neural networks"]
 author: Carlos Lima
 ---
