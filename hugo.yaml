@@ -4,9 +4,9 @@ title: CLLTorch
 theme: PaperMod
 
 params:
-  defaultTheme: white
+  defaultTheme: black
   homeInfoParams:
-    Title: "Olá, meu nome é Carlos!"
+    Title: "Welcome to my blog!"
     Content: >-    
       math, ai safety and writing
   socialIcons:
