@@ -7,14 +7,13 @@ tags: ["neural networks"]
 author: Carlos Lima
 ---
 
+## What is the utility of the perceptron?
 
 The perceptron was created in 1943 by Warren McCulloch and Walter Pitts. The fundamental idea behind its architecture is the ability to map an input value (x1, x2, ..., xn) to a simple binary output value.
 
 However, the perceptron has some limitations, such as being useful only for binary classifications and requiring that the problem be linearly separable (which will be discussed later).
 
 The goal of this post is to address the origin and mathematics behind the perceptron and explain why understanding it will provide a solid foundation for understanding other machine learning models (such as logistic regression) and neural networks.
-
-## What is the utility of the perceptron?
 
 Rosenblatt (1958) proposed the perceptron as an architecture to understand intelligent systems, applying to both hypothetical nervous systems and machines. The model enables the simulation of artificial intelligence similarly to how a biological neuron functions, through its activation.
 
