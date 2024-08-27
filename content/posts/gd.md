@@ -1,5 +1,5 @@
 ---
-title: "Perceptron: The Neuron That Will Help You Understand Neural Networks"
+title: "Understanding Gradient Descent"
 draft: false
 ShowToc: true
 date: 2024-08-27
