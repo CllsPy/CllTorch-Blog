@@ -1,5 +1,5 @@
 ---
-title: "Perceptron: How Do Machines Learn?"
+title: "How Do Machines Learn?"
 draft: false
 ShowToc: true
 date: 2024-09-30
@@ -63,7 +63,8 @@ The training data consists of pairs (xi, yi), ..., (xn, yn). It's essential to e
 ### Algorithm
 The algorithm is the statistical model that learns the patterns; there are several models available. In Figure 1, we see a diagram illustrating how the Perceptron algorithm.
 
-![image](https://github.com/user-attachments/assets/75c8112f-83bb-4068-992e-c630feb21938)
+![image](https://github.com/user-attachments/assets/ded36d18-8f48-4c9c-aa0b-fb414459d1b5)
+
 
 *Figure 1. The Perceptron archeteture (Image source: Rosenblatt, 1958)*
 
@@ -77,7 +78,8 @@ Other machine learning models include:
 ### Hypothesis
 The algorithm (in our case, the Perceptron) generates a set of hypotheses, from which we select the best one—i.e., the hypothesis that approximates f: x → y and can predict future unseen data. This is referred to as the bias-variance tradeoff.
 
-![image](https://github.com/user-attachments/assets/8345a145-964b-4fbd-83cd-8a4cd1569988)
+![image](https://github.com/user-attachments/assets/a098940f-445b-4d8d-af5d-dc407f2de801)
+
 
 *Figure 2. The bias-variance trade-off (Image source: Raschka et. al 2022)*
 
@@ -87,8 +89,10 @@ Ultimately, we arrive at a hypothesis g that approximates f. Remember that origi
 ### Summing Up
 In this essay I present the fundamental understanding, the components above demonstrate what is needed to train a statistical model and find a function g that approximates f (unknown) using only data. Figure 3 summarizes all the components. Keep in mind we can expand even more, but this is the foundational building block for understanding how machines learn.
 
-![image](https://github.com/user-attachments/assets/a7357835-00d7-4178-87f1-af3cbcedc5e0)
-_Figure 3. Components of Learning (Image source: Abu-Mostafa, 2012)_
+![image](https://github.com/user-attachments/assets/4fcb808f-a098-4039-9aff-ac0f1b6d89e4)
+
+
+*Figure 3. Components of Learning (Image source: Abu-Mostafa, 2012)*
 
 ## Further Reading
 - https://www.ibm.com/think/topics/machine-learning-types
