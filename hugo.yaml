@@ -1,17 +1,21 @@
-baseURL: https://example.org/
-languageCode: en-us
-title: CLLTorch
-theme: PaperMod
+baseURL: "https://example.org/"
+languageCode: "en-us"
+title: "CLLTorch"
+theme: "PaperMod"
 
 params:
-  defaultTheme: black
+  defaultTheme: auto  # Modo claro/escuro automático
   homeInfoParams:
     Title: "Welcome to my blog!"
-    Content: >-    
-      math, ai safety and writing
+    Content: >-
+      Math, AI Safety, and Writing
   socialIcons:
-    - name: Github 
-      url: https://github.com/CllsPy
+    - name: Github
+      url: "https://github.com/CllsPy"
+    - name: Twitter
+      url: "https://twitter.com/CllsPy"
+    - name: Email
+      url: "mailto:contact@example.org"
 
 menu:
   main:
@@ -20,6 +24,31 @@ menu:
       url: /
       weight: 10
     - identifier: posts
-      name: Blog
+      name: Posts
       url: /posts/
       weight: 20
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 30
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 40
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true  # Permite HTML dentro de Markdown
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON  # Necessário para pesquisa interna
+
+params:
+  enableMath: true  # Ativar suporte para fórmulas matemáticas
+  showReadingTime: true  # Exibir tempo estimado de leitura
+  comments: false  # Desativar comentários por padrão
+
