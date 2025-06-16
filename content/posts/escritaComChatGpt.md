@@ -3,7 +3,7 @@ title: "O processo da escrita na era do ChatGPT "
 draft: false
 ShowToc: true
 date: 2025-06-16
-tags: ["llms", "writing]
+tags: ["escrita"]
 author: Carlos Lima
 ---
 
